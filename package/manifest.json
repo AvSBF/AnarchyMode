@@ -1,6 +1,6 @@
 {
   "name": "AnarchyMode",
-  "version_number": "0.1.0",
+  "version_number": "0.1.1",
   "website_url": "https://github.com/AvSBF/AnarchyMode",
   "description": "Turns a new city into an armed anarchy simulation with a kill feed, NPC combat and spectator respawn.",
   "dependencies": [
@@ -10,3 +10,4 @@
     "Venomaus-SODCommon-2.1.5"
   ]
 }
+

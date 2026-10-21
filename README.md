@@ -27,7 +27,7 @@ Build and create the Thunderstore zip:
 .\build-release.ps1
 ```
 
-The resulting `AnarchyMode-0.1.0.zip` contains `manifest.json`, `icon.png`, `README.md` and `BepInEx/plugins/AnarchyMode.dll`.
+The resulting `AnarchyMode-0.1.1.zip` contains `manifest.json`, `icon.png`, `README.md` and `BepInEx/plugins/AnarchyMode.dll`.
 
 ## Project layout
 
@@ -46,3 +46,4 @@ The resulting `AnarchyMode-0.1.0.zip` contains `manifest.json`, `icon.png`, `REA
 
 - Thunderstore: https://thunderstore.io/c/shadows-of-doubt/p/AvSGames/AnarchyMode/
 - Author: AvSGames
+

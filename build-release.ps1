@@ -1,5 +1,5 @@
 param(
-    [string]$Version = "0.1.0"
+    [string]$Version = "0.1.1"
 )
 
 $ErrorActionPreference = "Stop"
@@ -20,3 +20,4 @@ if (Test-Path -LiteralPath $zip) {
 Compress-Archive -Path (Join-Path $root "package\*") -DestinationPath $zip
 
 Write-Output $zip
+

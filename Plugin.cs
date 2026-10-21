@@ -7,7 +7,7 @@ using UnityEngine;
 
 namespace AnarchyMode;
 
-[BepInPlugin(Guid, "Anarchy Mode", "0.1.0")]
+[BepInPlugin(Guid, "Anarchy Mode", "0.1.1")]
 public class Plugin : BasePlugin
 {
     public const string Guid = "com.avs.anarchymode";
@@ -34,3 +34,4 @@ public class Plugin : BasePlugin
         Log.LogInfo("Anarchy Mode: loaded");
     }
 }
+
