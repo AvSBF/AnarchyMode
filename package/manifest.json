@@ -1,0 +1,12 @@
+{
+  "name": "AnarchyMode",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/AvSBF/AnarchyMode",
+  "description": "Turns a new city into an armed anarchy simulation with a kill feed, NPC combat and spectator respawn.",
+  "dependencies": [
+    "BepInEx-BepInExPack_IL2CPP-6.0.755",
+    "Nova-DensityMod-2.1.0",
+    "TeamSpyraxi-Guns-0.2.2",
+    "Venomaus-SODCommon-2.1.5"
+  ]
+}
